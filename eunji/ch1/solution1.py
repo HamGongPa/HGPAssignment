@@ -27,3 +27,4 @@ def solution5(num1, num2):
 def solution6(num1, num2):
     answer = num1%num2
     return answer
+
