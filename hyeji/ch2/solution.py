@@ -14,7 +14,9 @@ def solution3(my_string):
 
 
 # 4. 문자열을 입력받아 대문자로 변환
-def solution4(a):
-    a = 'hyeji'
-    print('a'.upper())
-    # HYEJI
+def solution4():
+    my_string = input("문자열을 입력하세요>")
+    print("원본:", my_string)
+    print("변환:", my_string.upper())
+
+
